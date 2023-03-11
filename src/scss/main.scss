@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  opacity: .9;
+}
+
+.flex-grid {
+  display: flex;
+}
+
+.flex-grid__item {
+  flex: 1;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.flex-grid__item--left {
+  text-align: center;
+  margin-right: auto;
+}
+
+.flex-grid__item--right {
+  text-align: center;
+  margin-left: auto;
+}
