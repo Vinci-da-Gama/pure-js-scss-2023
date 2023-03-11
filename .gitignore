@@ -5,3 +5,6 @@ postcss.config.js
 node_modules
 dist/
 build/
+.DS_Store
+gulpfile.mjs
+.eslintrc.json
